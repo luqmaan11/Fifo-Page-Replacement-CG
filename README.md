@@ -11,13 +11,13 @@ Software Requirement:
 A guide to install all the prerequisites:
 https://medium.com/swlh/setting-opengl-for-windows-d0b45062caf
 
-#Steps to run the application:
+Steps to run the application:
 - Download Project zip file, extract the file
 - After installing the prerequisites , open CodeBlocks IDE
 - File -> Open -> fifo project file
 - Run the program
 
-#Screenshots
+Screenshots
 Output screen for integer reference string:
 This screenshot shows the final output when the user enters the following integer reference string along with the page frame state at every hit or miss condition.
 
