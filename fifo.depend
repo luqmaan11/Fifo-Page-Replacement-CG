@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1657810150 source:d:\luqmaan\projects\cg\cg-fifo\fifo\main.c
+	<stdio.h>
+	<GL/glut.h>
+	<GL/glu.h>
+	<GL/gl.h>
+
